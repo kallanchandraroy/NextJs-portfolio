@@ -32,7 +32,7 @@ const Banner = () => {
         className="text-base md:max-w-[650px] text-textDark font-medium"
       >
         {" "}
-        I am a software developer with 5+ years of expreience in PhP, React. I
+        I am a software developer with 5+ years of expreience in PhP,Laravel, ReactJs, NextJs, Tailwind CSS, MSSQL . I
         have a strong foundation in front-end & back-end development and skilled
         in creating user-friendly and responsive web applications using React
         and ecosystem.{" "}
